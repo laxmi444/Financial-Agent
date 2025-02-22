@@ -1,0 +1,10 @@
+python-dotenv
+yfinance
+duckduckgo-search #used by agents for web search
+groq
+openai
+streamlit
+langchain
+langchain-community
+langchain-groq
+plotly
